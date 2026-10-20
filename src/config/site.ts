@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.gbif.org/taxon/VNYLW",
     youtube: "https://www.youtube.com/watch?v=YBt6s7CHFQA",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "fa", "es", "de"],
   defaultLocale: "en",
 };

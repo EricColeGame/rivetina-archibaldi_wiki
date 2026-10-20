@@ -1,1 +1,515 @@
-{}
+{
+  "site": {
+    "name": "Rivetina archibaldi Wiki",
+    "shortName": "Rivetina archibaldi",
+    "tagline": "راهنمای گونه، زیستگاه و طبقه‌بندی علمی",
+    "description": "Rivetina archibaldi را با ویژگی‌های شناسایی، زیستگاه در غرب ایران، طبقه‌بندی علمی، مقاله پژوهشی و گونه‌های آخوندک مرتبط کاوش کنید.",
+    "legalNotice": "دانشنامه مستقل گونه‌ها. وابسته به پژوهشگران یا مجله اصلی نیست."
+  },
+  "nav": {
+    "guide": "راهنما",
+    "mechanics": "مکانیک",
+    "characters": "ویژگی‌ها",
+    "progression": "رشد",
+    "tips": "نکات",
+    "community": "انجمن"
+  },
+  "home": {
+    "meta": {
+      "title": "Rivetina archibaldi Wiki — گونه، زیستگاه و راهنمای علمی",
+      "description": "Rivetina archibaldi، آخوندک نمازگزار زمین‌زی جنگل‌های بلوط زاگرس ایران را با شناسایی، طبقه‌بندی، زیستگاه، رفتار و پژوهش کاوش کنید."
+    },
+    "hero": {
+      "eyebrow": "آخوندک نمازگزار زمین‌زی تازه‌توصیف‌شده",
+      "title": "Rivetina archibaldi Wiki",
+      "description": "Rivetina archibaldi را با ویژگی‌های شناسایی، زیستگاه در غرب ایران، طبقه‌بندی علمی، مقاله پژوهشی و گونه‌های آخوندک مرتبط کاوش کنید.",
+      "stats": [
+        "منتشرشده در ۲۰۲۶",
+        "۱۰ صفحه پژوهشی",
+        "جلد ۳۵ مجله",
+        "توصیف‌شده در ۱۲ ژوئن ۲۰۲۶"
+      ],
+      "primaryCta": "شناسایی گونه",
+      "secondaryCta": "زیستگاه و پراکنش",
+      "tertiaryCta": "پژوهش اصلی",
+      "videoLabel": "تاریخ طبیعی Rivetina archibaldi"
+    },
+    "updates": {
+      "title": "آخرین به‌روزرسانی‌ها",
+      "browse": "مرور همه راهنماها",
+      "viewAll": "مشاهده همه"
+    },
+    "start": {
+      "eyebrow": "از اینجا شروع کنید",
+      "title": "سفر شما در دنیای Rivetina archibaldi",
+      "cards": [
+        {
+          "number": "1",
+          "title": "شناسایی برای مبتدیان",
+          "description": "گردش کار میدانی برای عکاسی، مستندسازی و شناسایی Rivetina archibaldi را بیاموزید."
+        },
+        {
+          "number": "2",
+          "title": "مراحل رشد",
+          "description": "Rivetina archibaldi را از اووتکا و مراحل پورگی تا بزرگسالی بالدار دنبال کنید."
+        },
+        {
+          "number": "3",
+          "title": "زیستگاه و پراکنش",
+          "description": "جنگل‌های بلوط زاگرس در غرب ایران و ریززیستگاه‌های لایه زمینی را که Rivetina archibaldi از آن‌ها استفاده می‌کند کاوش کنید."
+        },
+        {
+          "number": "4",
+          "title": "رفتار و تغذیه",
+          "description": "ببینید این آخوندک زمین‌زی چگونه شکار می‌کند، پنهان می‌شود، خودآرایی می‌کند و از پاهای شکارگر خود بهره می‌برد."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "صفحات برگزیده گونه",
+      "title": "پژوهش را کاوش کنید",
+      "quickLinks": [
+        "شناسایی",
+        "طبقه‌بندی",
+        "زیستگاه",
+        "چرخه زندگی"
+      ],
+      "cards": [
+        {
+          "badge": "راهنما",
+          "title": "شناسایی Rivetina archibaldi",
+          "description": "گردش کار گام‌به‌گام برای عکس‌ها، یادداشت‌های زیستگاه و ویژگی‌های تشخیصی.",
+          "href": "/guide/rivetina-archibaldi-identification"
+        },
+        {
+          "badge": "طبقه‌بندی",
+          "title": "طبقه‌بندی علمی",
+          "description": "راسته، خانواده، سرده و گونه به ترتیب رتبه‌های طبقه‌بندی توضیح داده شده‌اند.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification"
+        },
+        {
+          "badge": "زیستگاه",
+          "title": "زیستگاه جنگل بلوط زاگرس",
+          "description": "جایی که گونه توصیف شد و کدام ریززیستگاه‌ها اهمیت دارند.",
+          "href": "/guide/rivetina-archibaldi-habitat"
+        },
+        {
+          "badge": "رفتار",
+          "title": "شکار و رفتار",
+          "description": "تاکتیک‌های کمین، استتار، خودآرایی، پوست‌اندازی و جفت‌گیری.",
+          "href": "/mechanics/rivetina-archibaldi-behavior"
+        },
+        {
+          "badge": "مکانیک",
+          "title": "شکار زمینی",
+          "description": "چگونه بدنی کوتاه و فشرده از سبک شکار نشستن و انتظار پشتیبانی می‌کند.",
+          "href": "/mechanics/rivetina-archibaldi-hunting-behavior"
+        },
+        {
+          "badge": "رشد",
+          "title": "مراحل رشد",
+          "description": "از اووتکا و مراحل پورگی تا بزرگسالی بالدار.",
+          "href": "/progression/rivetina-archibaldi-growth-stages"
+        },
+        {
+          "badge": "آناتومی",
+          "title": "ویژگی‌های ظاهری",
+          "description": "سر، پیش‌گرده، پاهای جلویی، بال‌ها و استتار.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics"
+        },
+        {
+          "badge": "کشف",
+          "title": "گونه‌ای تازه برای علم",
+          "description": "چگونه Rivetina archibaldi در سال ۲۰۲۶ توصیف و نام‌گذاری شد.",
+          "href": "/guide/rivetina-archibaldi-discovery"
+        },
+        {
+          "badge": "پژوهش",
+          "title": "مقالات و انجمن",
+          "description": "پژوهش اصلی، داده‌های حضور و منابع پژوهش میدانی.",
+          "href": "/community/rivetina-archibaldi-research-papers"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Rivetina archibaldi چیست؟",
+      "paragraphs": [
+        "Rivetina archibaldi آخوندک نمازگزاری از راسته Mantodea و خانواده Rivetinidae است که در سال ۲۰۲۶ رسماً به‌عنوان گونه‌ای تازه برای علم توصیف شد. نام آن از نمونه‌های جمع‌آوری‌شده در جنگل‌های بلوط زاگرس در غرب ایران گرفته شد.",
+        "این گونه آخوندکی فشرده و زمین‌زی با پاهای جلویی شکارگر، سر مثلثی متحرک و رنگ‌بندی خالدار در طیف خاکی است. توصیف منتشرشده آن طبقه‌بندی، ریخت‌شناسی، محل نمونه و کلید شناسایی مبتنی بر نر برای گونه‌های ایرانی Rivetina را ارائه می‌کند."
+      ],
+      "stats": [
+        {
+          "label": "راسته",
+          "value": "Mantodea"
+        },
+        {
+          "label": "خانواده",
+          "value": "Rivetinidae"
+        },
+        {
+          "label": "سرده",
+          "value": "Rivetina"
+        },
+        {
+          "label": "منطقه نمونه",
+          "value": "غرب ایران"
+        },
+        {
+          "label": "زیستگاه",
+          "value": "جنگل‌های بلوط زاگرس"
+        },
+        {
+          "label": "توصیف‌شده",
+          "value": "2026"
+        }
+      ],
+      "cta": "راهنمای گونه را کاوش کنید"
+    },
+    "explore": {
+      "title": "Rivetina archibaldi را کاوش کنید",
+      "description": "هشت ماژول موضوعی، هویت گونه، گردش کار شناسایی، ویژگی‌های ظاهری، طبقه‌بندی علمی، سابقه کشف و منابع پژوهش میدانی را پوشش می‌دهد.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Rivetina archibaldi: مرور کلی گونه",
+          "description": "Rivetina archibaldi را معرفی کنید؛ از جمله هویت آن به‌عنوان آخوندک نمازگزار تازه‌توصیف‌شده، جایگاه خانواده، منطقه نمونه و مقاله ۲۰۲۶ که این گونه را معرفی کرد.",
+          "href": "/guide/rivetina-archibaldi-species",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "نمای کلی",
+              "detail": "آخوندک نمازگزاری که در سال ۲۰۲۶ در خانواده Rivetinidae توصیف شد."
+            },
+            {
+              "label": "منطقه",
+              "detail": "شناخته‌شده از جنگل‌های بلوط زاگرس در غرب ایران."
+            },
+            {
+              "label": "ساختار بدن",
+              "detail": "شکارچی فشرده و زمین‌زی با پاهای جلویی شکارگر."
+            },
+            {
+              "label": "پژوهش",
+              "detail": "توصیف اصلی در Journal of Orthoptera Research منتشر شد."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "شناسایی Rivetina archibaldi برای مبتدیان",
+          "description": "راهنمای میدانی مناسب مبتدیان برای شناسایی Rivetina archibaldi، از نخستین عکس و یادداشت‌های زیستگاه تا ویژگی‌های تشخیصی کلید منتشرشده.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "قبل از دست زدن یا جابجایی آخوندک با یک عکس جانبی واضح شروع کنید."
+            },
+            {
+              "label": "2",
+              "detail": "بستر دقیق، پوشش گیاهی کم، و زیستگاه اطراف محل مشاهده را ثبت کنید."
+            },
+            {
+              "label": "3",
+              "detail": "مختصات، تاریخ، زمان و ارتفاع را برای یک رکورد میدانی قابل تأیید ثبت کنید."
+            },
+            {
+              "label": "4",
+              "detail": "از سر و پیش‌گرده نماهای پشتی، جانبی و جلویی ثبت کنید."
+            },
+            {
+              "label": "5",
+              "detail": "خارهای پاهای جلویی و طول بال را به‌عنوان جزئیات تشخیصی عکاسی کنید."
+            },
+            {
+              "label": "6",
+              "detail": "با کلید ایرانی Rivetina مقایسه کنید و به دنبال تأییدیه متخصص باشید."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "اولویت‌های شناسایی Rivetina archibaldi",
+          "description": "شواهد تشخیصی Rivetina archibaldi را از ویژگی‌های تعیین‌کننده نمونه تا بافت میدانی پشتیبان رتبه‌بندی کنید تا مشاهدات با سطح مناسب جزئیات مستند شوند.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "اندام تناسلی نر و کلید منتشرشده Rivetina ایران."
+            },
+            {
+              "label": "A",
+              "detail": "خارهای پاهای جلویی، نمای پیش‌گرده و طول بال."
+            },
+            {
+              "label": "B",
+              "detail": "شکل سر، فاصله چشم‌ها و سپر پیشانی."
+            },
+            {
+              "label": "C",
+              "detail": "ساختار کلی، رنگ‌بندی و زمینه زیستگاه."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "نکات مشاهده میدانی Rivetina archibaldi",
+          "description": "نکات عملی برای یافتن و مستندسازی Rivetina archibaldi در حین حفاظت از زیستگاه جنگل بلوط و حشرات ساکن در آنجا.",
+          "href": "/tips/rivetina-archibaldi-field-research",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "مشاهده",
+              "detail": "لایه زمین، پوشش گیاهی کوتاه، پوست درخت و لاشبرگ را جست‌وجو کنید."
+            },
+            {
+              "label": "عکاسی",
+              "detail": "از نماهای پشتی، جانبی و جلویی با نور یکنواخت استفاده کنید."
+            },
+            {
+              "label": "ثبت",
+              "detail": "ثبت تاریخ، زمان، مختصات، ارتفاع، و بستر."
+            },
+            {
+              "label": "احترام",
+              "detail": "بدون دست‌زدن عکاسی کنید و سنگ‌ها یا پوست درخت را دقیقاً به جای اول برگردانید."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Rivetina archibaldi: ویژگی‌های ظاهری",
+          "description": "سر، پیش‌گرده، پاهای جلویی، بال‌ها، رنگ‌بندی و تناسبات بدنی را که Rivetina archibaldi را تعریف می‌کنند و از آخوندک‌های مرتبط جدا می‌کنند معرفی کنید.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "سر",
+              "detail": "سر مثلثی با چشم های مرکب بزرگ و سپر جلویی مشخص."
+            },
+            {
+              "label": "پیش‌گرده",
+              "detail": "صفحه گردن کشیده با تورم سوپراکوکسال مشخص."
+            },
+            {
+              "label": "پاهای جلویی",
+              "detail": "ران و ساق پای شکارگر با ردیف‌هایی از خارهای گیرنده."
+            },
+            {
+              "label": "بال‌ها",
+              "detail": "نرها معمولاً بال‌های بلندتری دارند؛ ماده‌ها اغلب بال‌های کوتاه‌تری دارند."
+            },
+            {
+              "label": "رنگ‌آمیزی",
+              "detail": "رنگ‌های خالدار خاکستری، خرمایی و قهوه‌ای با پوست درخت، خاک و علف خشک ترکیب می‌شوند."
+            },
+            {
+              "label": "ساختار بدن",
+              "detail": "تناسبات فشرده و مستحکم برای یک شکارچی کمین ساکن زمین مناسب است."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "طبقه‌بندی علمی Rivetina archibaldi",
+          "description": "طبقه‌بندی علمی کامل Rivetina archibaldi را از دامنه تا گونه توضیح دهید، همراه با رتبه‌هایی که آن را در میان آخوندک‌های زمین‌زی قرار می‌دهند.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "دامنه",
+              "detail": "Eukaryota — سلول‌هایی با هسته."
+            },
+            {
+              "label": "فرمانرو",
+              "detail": "Animalia — فرمانروی جانوران."
+            },
+            {
+              "label": "شاخه",
+              "detail": "Arthropoda — اسکلت خارجی بندبند و بدن قطعه‌قطعه."
+            },
+            {
+              "label": "رده",
+              "detail": "Insecta — شش پا، سه ناحیه بدن و یک جفت آنتن."
+            },
+            {
+              "label": "راسته",
+              "detail": "Mantodea — آخوندک‌های نمازگزار."
+            },
+            {
+              "label": "خانواده",
+              "detail": "Rivetinidae — بیشتر آخوندک‌های زمین‌زی."
+            },
+            {
+              "label": "سرده",
+              "detail": "Rivetina — سرده‌ای که با خویشاوندان نزدیک مشترک است."
+            },
+            {
+              "label": "گونه",
+              "detail": "Rivetina archibaldi — نام دوجمله‌ای یکتای این آخوندک."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "کشف و انتشار Rivetina archibaldi",
+          "description": "کشف، توصیف رسمی، محل نمونه، انتشار در مجله و سابقه پژوهشی دسترسی‌آزاد Rivetina archibaldi را خلاصه کنید.",
+          "href": "/guide/rivetina-archibaldi-discovery",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "کشف",
+              "detail": "این گونه به‌طور رسمی در سال ۲۰۲۶ به‌عنوان جدید برای علم نام‌گذاری شد."
+            },
+            {
+              "label": "محل نمونه",
+              "detail": "محل نمونه در جنگل‌های بلوط زاگرس در غرب ایران است."
+            },
+            {
+              "label": "نشریه",
+              "detail": "توصیف در Journal of Orthoptera Research منتشر شد."
+            },
+            {
+              "label": "جلد",
+              "detail": "منتشرشده در جلد ۳۵، شماره ۲، صفحات ۲۸۳–۲۹۲."
+            },
+            {
+              "label": "DOI",
+              "detail": "10.3897/jor.35.174839"
+            },
+            {
+              "label": "مقاله",
+              "detail": "توصیف دسترسی‌آزاد شامل کلید شناسایی نر است."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "پژوهش و انجمن Rivetina archibaldi",
+          "description": "مقالات تأییدشده، داده‌های حضور، عکس‌ها و منابع پژوهش میدانی را برای هر کسی که Rivetina archibaldi را مطالعه می‌کند گردآوری کنید.",
+          "href": "/community/rivetina-archibaldi-research-papers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "مقالات",
+              "detail": "توصیف اصلی گونه و منابع طبقه‌بندی را مرور کنید."
+            },
+            {
+              "label": "GBIF",
+              "detail": "سوابق حضور و داده‌های مرجع طبقه‌بندی را بررسی کنید."
+            },
+            {
+              "label": "عکس‌ها",
+              "detail": "پیش از پیشنهاد شناسایی گونه، تصاویر تأییدشده توسط متخصص را مقایسه کنید."
+            },
+            {
+              "label": "کار میدانی",
+              "detail": "مشاهدات را بدون جمع‌آوری نمونه یا مختل کردن زیستگاه مستند کنید."
+            },
+            {
+              "label": "انجمن",
+              "detail": "مشاهدات را از طریق انجمن‌های طبیعت‌گرا و حشره‌شناسی به اشتراک بگذارید."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "پرسش‌های متداول درباره Rivetina archibaldi",
+      "description": "پاسخ‌های سریع به پرسش‌های رایج درباره گونه Rivetina archibaldi، زیستگاه، شناسایی و سابقه علمی آن.",
+      "items": [
+        {
+          "question": "Rivetina archibaldi چیست؟",
+          "answer": "Rivetina archibaldi آخوندک نمازگزاری از خانواده Rivetinidae است که به‌طور رسمی در سال ۲۰۲۶ از جنگل‌های بلوط زاگرس در غرب ایران توصیف شد."
+        },
+        {
+          "question": "Rivetina archibaldi کجا زندگی می‌کند؟",
+          "answer": "محل نمونه منتشرشده در کمربند جنگل‌های بلوط زاگرس در غرب ایران است. بررسی‌ها بر لایه زمین، پوشش گیاهی کوتاه، پوست درخت و لاشبرگ متمرکز است."
+        },
+        {
+          "question": "چگونه Rivetina archibaldi را شناسایی کنم؟",
+          "answer": "ساختار کلی، نمای پیش‌گرده، خارهای پاهای جلویی، طول بال و شکل سر را مستند کنید. کلید شناسایی منتشرشده مبتنی بر نر است؛ بنابراین بررسی تخصصی برای تأیید در سطح گونه مهم است."
+        },
+        {
+          "question": "چه زمانی Rivetina archibaldi توصیف شد؟",
+          "answer": "این گونه در سال ۲۰۲۶ در Journal of Orthoptera Research، جلد ۳۵، شماره ۲، صفحات ۲۸۳–۲۹۲ توصیف شد."
+        },
+        {
+          "question": "Rivetina archibaldi چه می‌خورد؟",
+          "answer": "Rivetina archibaldi شکارچی کمین‌کننده و زمین‌زی است. ساختار بدن آن برای رژیم غذایی بندپایان کوچک فعال در سطح زمین مانند مورچه‌ها، سوسک‌ها و عنکبوت‌ها سازگار است."
+        },
+        {
+          "question": "آیا Rivetina archibaldi یک شخصیت بازی است؟",
+          "answer": "خیر. Rivetina archibaldi گونه‌ای آخوندک نمازگزار است که در متون علمی توصیف شده، نه یک شخصیت بازی یا حیوان خانگی مجازی."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "علم پشت Rivetina archibaldi را کاوش کنید",
+      "description": "ویژگی‌های شناسایی گونه، طبقه‌بندی، زیستگاه و مقاله ۲۰۲۶ در Journal of Orthoptera Research را مرور کنید.",
+      "primary": "راهنمای گونه را بخوانید",
+      "secondary": "مقاله اصلی را باز کنید"
+    }
+  },
+  "guide": {
+    "overviewTitle": "راهنمای گونه Rivetina archibaldi",
+    "overviewDescription": "با مرور کلی گونه، گردش کار شناسایی میدانی، زیستگاه، طبقه‌بندی علمی و کشف Rivetina archibaldi در سال ۲۰۲۶ شروع کنید."
+  },
+  "mechanics": {
+    "overviewTitle": "رفتار و مکانیک Rivetina archibaldi",
+    "overviewDescription": "شکار کمین، استتار، تغذیه، سازگاری، تولید مثل، و چرخه زندگی سالانه Rivetina archibaldi را کاوش کنید."
+  },
+  "characters": {
+    "overviewTitle": "ظاهر و ویژگی‌های Rivetina archibaldi",
+    "overviewDescription": "اندازه بدن، ویژگی‌های نر و ماده، خصوصیات ظاهری و گونه‌های مرتبط در سرده Rivetina را مقایسه کنید."
+  },
+  "progression": {
+    "overviewTitle": "مراحل رشد Rivetina archibaldi",
+    "overviewDescription": "Rivetina archibaldi را از اووتکا و مراحل پورگی، از طریق پوست‌اندازی، تا دوره بزرگسالی دنبال کنید."
+  },
+  "tips": {
+    "overviewTitle": "نکات میدانی Rivetina archibaldi",
+    "overviewDescription": "مشاهده میدانی مسئولانه را با راهنمای شناسایی، یادداشت‌های زیستگاه، استانداردهای عکاسی و شیوه‌های پژوهشی برنامه‌ریزی کنید."
+  },
+  "community": {
+    "overviewTitle": "پژوهش و انجمن Rivetina archibaldi",
+    "overviewDescription": "توصیف اصلی گونه، مقالات علمی، بحث درباره پراکنش و منابع عکاسی انجمن را بیابید."
+  },
+  "shared": {
+    "wikiNavigation": "ناوبری ویکی",
+    "activeCodes": "نمای کلی پژوهش",
+    "updated": "به‌روزرسانی شد",
+    "viewAllCodes": "مرور منابع پژوهش",
+    "playOnRoblox": "در Roblox بازی کنید",
+    "inThisSection": "در این بخش",
+    "tableOfContents": "فهرست مطالب",
+    "nextSteps": "مراحل بعدی",
+    "needHelp": "به کمک نیاز دارید؟",
+    "relatedReading": "مطالعه مرتبط",
+    "relatedGuides": "راهنماهای مرتبط",
+    "readMore": "بیشتر بخوانید",
+    "officialMedia": "رسانه رسمی",
+    "home": "خانه",
+    "noGuidesAvailable": "هنوز راهنمایی در دسترس نیست. به‌زودی دوباره سر بزنید!"
+  },
+  "footer": {
+    "aboutTitle": "Rivetina archibaldi Wiki",
+    "about": "Rivetina archibaldi Wiki دانشنامه‌ای مستقل درباره گونه‌ها است که شناسایی، طبقه‌بندی، زیستگاه، مقاله اصلی ۲۰۲۶ و گونه‌های آخوندک مرتبط را پوشش می‌دهد.",
+    "quickLinks": "پیوندهای سریع",
+    "guides": "راهنماها",
+    "legal": "حقوقی",
+    "copyright": "۲۰۲۶ Rivetina archibaldi Wiki. دانشنامه مستقل گونه‌ها؛ وابسته به پژوهشگران یا مجله اصلی نیست.",
+    "description": "آخوندک نمازگزار زمین‌زی تازه‌توصیف‌شده از جنگل‌های بلوط زاگرس در غرب ایران.",
+    "playGame": "مقاله اصلی را بخوانید",
+    "officialDiscord": "سابقه گونه در GBIF",
+    "officialYoutube": "مستند آخوندک",
+    "vvBuilder": "رکورد DOI",
+    "beginnerGuide": "راهنمای گونه",
+    "raceGuides": "ظاهر و ویژگی‌ها",
+    "bossGuides": "رفتار و بوم‌شناسی",
+    "buildGuide": "پژوهش و انجمن",
+    "privacyPolicy": "سیاست حفظ حریم خصوصی",
+    "termsOfService": "شرایط استفاده"
+  }
+}

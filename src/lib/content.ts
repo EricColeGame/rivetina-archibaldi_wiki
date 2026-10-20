@@ -246,10 +246,40 @@ const GROUP_TITLES: Record<string, string> = {
 };
 
 // locale → 分组标题映射
-const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {};
+const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
+  es: {
+    guide: "Guía",
+    mechanics: "Mecánica",
+    characters: "Características",
+    progression: "Desarrollo",
+    tips: "Consejos",
+    community: "Comunidad",
+  },
+  de: {
+    guide: "Leitfaden",
+    mechanics: "Mechanik",
+    characters: "Merkmale",
+    progression: "Entwicklung",
+    tips: "Tipps",
+    community: "Community",
+  },
+  fa: {
+    guide: "راهنما",
+    mechanics: "مکانیک",
+    characters: "ویژگی‌ها",
+    progression: "رشد",
+    tips: "نکات",
+    community: "انجمن",
+  },
+};
 
 // locale → "Overview" 翻译
-const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {};
+const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
+  en: "Overview",
+  es: "Resumen",
+  de: "Überblick",
+  fa: "نمای کلی",
+};
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [

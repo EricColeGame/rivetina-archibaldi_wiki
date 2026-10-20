@@ -14,8 +14,8 @@ type Messages = typeof en;
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await getMessages({ locale })) as Messages;
-  const title = "Rivetina archibaldi Wiki — Species & Habitat";
-  const description = "Explore Rivetina archibaldi with scientific classification, identification features, habitat details, original research, and related praying mantis species.";
+  const title = messages.home.meta.title;
+  const description = messages.home.meta.description;
   return {
     title,
     description,
@@ -39,10 +39,10 @@ export default async function LocaleHomePage({ params }: { params: Promise<{ loc
   const webSite = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: siteConfig.name,
+    name: messages.site.name,
     alternateName: siteConfig.shortName,
     url: `${siteUrl}/${locale}`,
-    description: siteConfig.description,
+    description: messages.site.description,
     inLanguage: locale,
   };
 

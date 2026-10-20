@@ -20,13 +20,18 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as {
+    site: { name: string; description: string };
+  };
+  const siteName = messages.site.name;
+  const siteDescription = messages.site.description;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Rivetina archibaldi Wiki", template: "%s" },
-    description: siteConfig.description,
-    applicationName: siteConfig.name,
+    title: { default: siteName, template: "%s" },
+    description: siteDescription,
+    applicationName: siteName,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -39,16 +44,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     openGraph: {
       type: "website",
       locale,
-      url: siteUrl,
-      siteName: siteConfig.name,
-      title: siteConfig.name,
-      description: siteConfig.description,
+      url: `${siteUrl}/${locale}`,
+      siteName,
+      title: siteName,
+      description: siteDescription,
       images: [{ url: image, width: 1600, height: 900, alt: "Rivetina archibaldi praying mantis" }],
     },
     twitter: {
       card: "summary_large_image",
-      title: siteConfig.name,
-      description: siteConfig.description,
+      title: siteName,
+      description: siteDescription,
       images: [image],
     },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
@@ -59,11 +64,13 @@ export default async function LocaleLayout({ children, params }: { children: Rea
   const { locale } = await params;
   setRequestLocale(locale);
   if (!hasLocale(routing.locales, locale)) notFound();
-  const messages = await getMessages({ locale });
+  const messages = (await getMessages({ locale })) as {
+    site: { name: string; description: string };
+  };
   const organization = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: siteConfig.name,
+    name: messages.site.name,
     alternateName: siteConfig.shortName,
     url: siteUrl,
     logo: {
@@ -73,7 +80,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
       height: 512,
     },
     image: `${siteUrl}/images/hero.webp`,
-    description: siteConfig.description,
+    description: messages.site.description,
     sameAs: [
       "https://doi.org/10.3897/jor.35.174839",
       "https://jor.pensoft.net/article/174839/",

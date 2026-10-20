@@ -1,1 +1,515 @@
-{}
+{
+  "site": {
+    "name": "Rivetina archibaldi Wiki",
+    "shortName": "Rivetina archibaldi",
+    "tagline": "Artenführer, Lebensraum und wissenschaftliche Klassifizierung",
+    "description": "Entdecken Sie Rivetina archibaldi, ihre Bestimmungsmerkmale, ihren Lebensraum im westlichen Iran, ihre wissenschaftliche Klassifikation, ihre Forschungspublikation und verwandte Gottesanbeterinnenarten.",
+    "legalNotice": "Unabhängige Artenenzyklopädie. Steht in keiner Verbindung zu den ursprünglichen Forschern oder der ursprünglichen Zeitschrift."
+  },
+  "nav": {
+    "guide": "Leitfaden",
+    "mechanics": "Mechanik",
+    "characters": "Merkmale",
+    "progression": "Entwicklung",
+    "tips": "Tipps",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Rivetina archibaldi Wiki – Leitfaden zu Art, Lebensraum und Wissenschaft",
+      "description": "Entdecken Sie Rivetina archibaldi, eine bodenbewohnende Gottesanbeterin aus den Zagros-Eichenwäldern im Iran – mit Bestimmung, Taxonomie, Lebensraum, Verhalten und Forschung."
+    },
+    "hero": {
+      "eyebrow": "Neu beschriebene bodenbewohnende Gottesanbeterin",
+      "title": "Rivetina archibaldi Wiki",
+      "description": "Entdecken Sie Rivetina archibaldi, ihre Bestimmungsmerkmale, ihren Lebensraum im westlichen Iran, ihre wissenschaftliche Klassifikation, ihre Forschungspublikation und verwandte Gottesanbeterinnenarten.",
+      "stats": [
+        "Veröffentlicht 2026",
+        "10 Forschungsseiten",
+        "Band 35 der Zeitschrift",
+        "Beschrieben am 12. Juni 2026"
+      ],
+      "primaryCta": "Artbestimmung",
+      "secondaryCta": "Lebensraum und Verbreitung",
+      "tertiaryCta": "Originalforschung",
+      "videoLabel": "Rivetina archibaldi Naturgeschichte"
+    },
+    "updates": {
+      "title": "Neueste Aktualisierungen",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier beginnen",
+      "title": "Ihre Reise mit Rivetina archibaldi",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Bestimmung für Anfänger",
+          "description": "Lernen Sie den Arbeitsablauf vor Ort zum Fotografieren, Dokumentieren und Identifizieren von Rivetina archibaldi kennen."
+        },
+        {
+          "number": "2",
+          "title": "Wachstumsstadien",
+          "description": "Folgen Sie Rivetina archibaldi vom Oothek- und Nymphenstadium bis zum geflügelten Erwachsenenalter."
+        },
+        {
+          "number": "3",
+          "title": "Lebensraum und Verbreitung",
+          "description": "Erkunden Sie die Zagros-Eichenwälder im Westen Irans und die von Rivetina archibaldi genutzten Bodenmikrohabitate."
+        },
+        {
+          "number": "4",
+          "title": "Verhalten und Ernährung",
+          "description": "Sehen Sie, wie diese bodenbewohnende Gottesanbeterin jagt, sich versteckt, sich pflegt und ihre raptorischen Vorderbeine einsetzt."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Ausgewählte Artseiten",
+      "title": "Die Forschung entdecken",
+      "quickLinks": [
+        "Identifikation",
+        "Taxonomie",
+        "Lebensraum",
+        "Lebenszyklus"
+      ],
+      "cards": [
+        {
+          "badge": "Leitfaden",
+          "title": "Rivetina archibaldi bestimmen",
+          "description": "Ein Schritt-für-Schritt-Ablauf für Fotos, Lebensraumnotizen und diagnostische Merkmale.",
+          "href": "/guide/rivetina-archibaldi-identification"
+        },
+        {
+          "badge": "Taxonomie",
+          "title": "Wissenschaftliche Klassifikation",
+          "description": "Ordnung, Familie, Gattung und Art werden Rang für Rang erklärt.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification"
+        },
+        {
+          "badge": "Lebensraum",
+          "title": "Lebensraum des Zagros-Eichenwaldes",
+          "description": "Wo die Art beschrieben wurde und welche Mikrohabitate wichtig sind.",
+          "href": "/guide/rivetina-archibaldi-habitat"
+        },
+        {
+          "badge": "Verhalten",
+          "title": "Jagd und Verhalten",
+          "description": "Hinterhaltstaktiken, Tarnung, Körperpflege, Häutung und Paarung.",
+          "href": "/mechanics/rivetina-archibaldi-behavior"
+        },
+        {
+          "badge": "Mechanik",
+          "title": "Bodenbewohnende Jagd",
+          "description": "Wie ein niedriger, kompakter Körper den Jagdstil im Sitzen und Abwarten unterstützt.",
+          "href": "/mechanics/rivetina-archibaldi-hunting-behavior"
+        },
+        {
+          "badge": "Entwicklung",
+          "title": "Wachstumsstadien",
+          "description": "Vom Ootheken- und Nymphenstadium bis zum geflügelten Erwachsenenalter.",
+          "href": "/progression/rivetina-archibaldi-growth-stages"
+        },
+        {
+          "badge": "Anatomie",
+          "title": "Körpermerkmale",
+          "description": "Kopf, Halsschild, Vorderbeine, Flügel und Tarnung.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics"
+        },
+        {
+          "badge": "Entdeckung",
+          "title": "Eine für die Wissenschaft neue Art",
+          "description": "Wie Rivetina archibaldi im Jahr 2026 beschrieben und benannt wurde.",
+          "href": "/guide/rivetina-archibaldi-discovery"
+        },
+        {
+          "badge": "Forschung",
+          "title": "Artikel und Community",
+          "description": "Originalforschung, Vorkommensdaten und Ressourcen für die Feldforschung.",
+          "href": "/community/rivetina-archibaldi-research-papers"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist Rivetina archibaldi?",
+      "paragraphs": [
+        "Rivetina archibaldi ist eine Gottesanbeterin in der Ordnung Mantodea und der Familie Rivetinidae, die 2026 offiziell als neue wissenschaftliche Art beschrieben wurde. Sie wurde nach Material benannt, das in den Zagros-Eichenwäldern im Westen Irans gesammelt wurde.",
+        "Die Art ist eine kompakte, bodengebundene Gottesanbeterin mit raptorischen Vorderbeinen, einem beweglichen dreieckigen Kopf und einer fleckigen Färbung in Erdtönen. Ihre veröffentlichte Beschreibung enthält die Taxonomie, Morphologie, Typlokalität und einen auf Männchen basierenden Bestimmungsschlüssel für iranische Rivetina-Arten."
+      ],
+      "stats": [
+        {
+          "label": "Ordnung",
+          "value": "Mantodea"
+        },
+        {
+          "label": "Familie",
+          "value": "Rivetinidae"
+        },
+        {
+          "label": "Gattung",
+          "value": "Rivetina"
+        },
+        {
+          "label": "Typusregion",
+          "value": "Westlicher Iran"
+        },
+        {
+          "label": "Lebensraum",
+          "value": "Zagros-Eichenwälder"
+        },
+        {
+          "label": "Beschrieben",
+          "value": "2026"
+        }
+      ],
+      "cta": "Entdecken Sie den Artenführer"
+    },
+    "explore": {
+      "title": "Entdecken Sie Rivetina archibaldi",
+      "description": "Acht thematische Module behandeln die Identität der Art, den Ablauf der Bestimmung, körperliche Merkmale, die wissenschaftliche Klassifikation, die Entdeckungsgeschichte und Ressourcen für die Feldforschung.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Rivetina archibaldi: Artenübersicht",
+          "description": "Stellen Sie Rivetina archibaldi vor, einschließlich ihrer Identität als neu beschriebene Gottesanbeterin, ihrer Familienzuordnung, der Typusregion und der Veröffentlichung von 2026, in der die Art etabliert wurde.",
+          "href": "/guide/rivetina-archibaldi-species",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Überblick",
+              "detail": "Eine im Jahr 2026 beschriebene Gottesanbeterin in der Familie Rivetinidae."
+            },
+            {
+              "label": "Region",
+              "detail": "Bekannt aus den Zagros-Eichenwäldern im Westen Irans."
+            },
+            {
+              "label": "Körperbau",
+              "detail": "Kompakter, bodengebundener Jäger mit raptorischen Vorderbeinen."
+            },
+            {
+              "label": "Forschung",
+              "detail": "Originalbeschreibung veröffentlicht im Journal of Orthoptera Research."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Bestimmung von Rivetina archibaldi für Anfänger",
+          "description": "Ein anfängerfreundlicher Leitfaden zur Identifizierung von Rivetina archibaldi, vom ersten Foto und den Habitatnotizen bis hin zu den im veröffentlichten Schlüssel verwendeten diagnostischen Zeichen.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Beginnen Sie mit einem klaren seitlichen Foto, bevor Sie die Gottesanbeterin anfassen oder bewegen."
+            },
+            {
+              "label": "2",
+              "detail": "Erfassen Sie den genauen Untergrund, die niedrige Vegetation und den Lebensraum rund um die Sichtung."
+            },
+            {
+              "label": "3",
+              "detail": "Protokollieren Sie Koordinaten, Datum, Uhrzeit und Höhe für einen überprüfbaren Felddatensatz."
+            },
+            {
+              "label": "4",
+              "detail": "Erfassen Sie dorsale, seitliche und frontale Ansichten des Kopfes und des Halsschilds."
+            },
+            {
+              "label": "5",
+              "detail": "Fotografieren Sie die Bestachelung der Vorderbeine und die Flügellänge als diagnostische Details."
+            },
+            {
+              "label": "6",
+              "detail": "Vergleichen Sie mit dem iranischen Rivetina-Schlüssel und holen Sie die Bestätigung eines Experten ein."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Identifizierungsprioritäten von Rivetina archibaldi",
+          "description": "Ordnen Sie die diagnostischen Belege für Rivetina archibaldi von entscheidenden Merkmalen des Exemplars bis zum unterstützenden Feldkontext, damit Beobachtungen mit der richtigen Detailtiefe dokumentiert werden.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Männliche Genitalien und der veröffentlichte iranische Rivetina-Schlüssel."
+            },
+            {
+              "label": "A",
+              "detail": "Bestachelung der Vorderbeine, Halsschildprofil und Flügellänge."
+            },
+            {
+              "label": "B",
+              "detail": "Kopfform, Augenabstand und Frontschild."
+            },
+            {
+              "label": "C",
+              "detail": "Gesamtbau, Färbung und Lebensraumkontext."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tipps zur Feldbeobachtung von Rivetina archibaldi",
+          "description": "Praktische Tipps zum Auffinden und Dokumentieren von Rivetina archibaldi bei gleichzeitigem Schutz des Lebensraums Eichenwald und der dort lebenden Insekten.",
+          "href": "/tips/rivetina-archibaldi-field-research",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Beobachten",
+              "detail": "Durchsuchen Sie die Bodenschicht, die niedrige Vegetation, die Rinde und die Laubstreuschicht."
+            },
+            {
+              "label": "Foto",
+              "detail": "Verwenden Sie Rücken-, Seiten- und Frontalansichten mit gleichmäßiger Beleuchtung."
+            },
+            {
+              "label": "Aufnahme",
+              "detail": "Protokollieren Sie Datum, Uhrzeit, Koordinaten, Höhe und Untergrund."
+            },
+            {
+              "label": "Respekt",
+              "detail": "Fotografieren Sie ohne Anfassen und setzen Sie Steine oder Rinde genau an ihren Platz zurück."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Rivetina archibaldi: Körpermerkmale",
+          "description": "Beschreiben Sie Kopf, Halsschild, Vorderbeine, Flügel, Färbung und Körperproportionen, die Rivetina archibaldi definieren und von verwandten Gottesanbeterinnen unterscheiden.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Kopf",
+              "detail": "Dreieckiger Kopf mit großen Facettenaugen und einem ausgeprägten Stirnschild."
+            },
+            {
+              "label": "Halsschild",
+              "detail": "Verlängerte Halsplatte mit deutlicher suprakoxaler Schwellung."
+            },
+            {
+              "label": "Vorderbeine",
+              "detail": "Raptorialer Femur und Schienbein mit Reihen von Greifstacheln."
+            },
+            {
+              "label": "Flügel",
+              "detail": "Männchen haben typischerweise längere Flügel; Weibchen haben oft kürzere Flügel."
+            },
+            {
+              "label": "Färbung",
+              "detail": "Fleckige Grau-, Beige- und Brauntöne verschmelzen mit Rinde, Erde und trockenem Gras."
+            },
+            {
+              "label": "Körperbau",
+              "detail": "Die kompakten und robusten Proportionen eignen sich für einen am Boden lebenden Hinterhaltjäger."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Wissenschaftliche Klassifikation von Rivetina archibaldi",
+          "description": "Erläutern Sie die vollständige wissenschaftliche Klassifikation von Rivetina archibaldi von der Domäne bis zur Art, mit den Rängen, die sie unter den bodenbewohnenden Gottesanbeterinnen einordnen.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Domäne",
+              "detail": "Eukaryota – Zellen mit einem Kern."
+            },
+            {
+              "label": "Reich",
+              "detail": "Animalia – das Tierreich."
+            },
+            {
+              "label": "Stamm",
+              "detail": "Arthropoda – gegliedertes Exoskelett und segmentierter Körper."
+            },
+            {
+              "label": "Klasse",
+              "detail": "Insecta – sechs Beine, drei Körperregionen und ein Antennenpaar."
+            },
+            {
+              "label": "Ordnung",
+              "detail": "Mantodea – die Gottesanbeterinnen."
+            },
+            {
+              "label": "Familie",
+              "detail": "Rivetinidae – überwiegend bodengebundene Gottesanbeterinnen."
+            },
+            {
+              "label": "Gattung",
+              "detail": "Rivetina – die Gattungsgruppe, die sie mit nahen Verwandten teilt."
+            },
+            {
+              "label": "Art",
+              "detail": "Rivetina archibaldi – der einzigartige Binomialname für diese Gottesanbeterin."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Entdeckung und Veröffentlichung von Rivetina archibaldi",
+          "description": "Fassen Sie Entdeckung, formelle Beschreibung, Typlokalität, Zeitschriftenveröffentlichung und den Open-Access-Forschungsdatensatz zu Rivetina archibaldi zusammen.",
+          "href": "/guide/rivetina-archibaldi-discovery",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Entdeckung",
+              "detail": "Die Art wurde 2026 offiziell als neu für die Wissenschaft benannt."
+            },
+            {
+              "label": "Typusgebiet",
+              "detail": "Die Typlokalität liegt in den Zagros-Eichenwäldern im Westen Irans."
+            },
+            {
+              "label": "Zeitschrift",
+              "detail": "Die Beschreibung erschien im Journal of Orthoptera Research."
+            },
+            {
+              "label": "Band",
+              "detail": "Veröffentlicht in Band 35, Ausgabe 2, Seiten 283–292."
+            },
+            {
+              "label": "DOI",
+              "detail": "10.3897/jor.35.174839"
+            },
+            {
+              "label": "Artikel",
+              "detail": "Die Open-Access-Beschreibung enthält den Bestimmungsschlüssel für Männchen."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Forschung und Community zu Rivetina archibaldi",
+          "description": "Sammeln Sie verifizierte Artikel, Vorkommensdaten, Fotos und Ressourcen für die Feldforschung für alle, die Rivetina archibaldi untersuchen.",
+          "href": "/community/rivetina-archibaldi-research-papers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Artikel",
+              "detail": "Sehen Sie sich die ursprüngliche Artbeschreibung und die taxonomischen Referenzen an."
+            },
+            {
+              "label": "GBIF",
+              "detail": "Prüfen Sie Vorkommensdatensätze und taxonomische Referenzdaten."
+            },
+            {
+              "label": "Fotos",
+              "detail": "Vergleichen Sie von Experten verifizierte Bilder, bevor Sie eine Artenbestimmung vorschlagen."
+            },
+            {
+              "label": "Feldarbeit",
+              "detail": "Dokumentieren Sie Beobachtungen, ohne Proben zu sammeln oder den Lebensraum zu stören."
+            },
+            {
+              "label": "Community",
+              "detail": "Teilen Sie Sichtungen über Naturforscher- und Entomologengemeinschaften."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "FAQ zu Rivetina archibaldi",
+      "description": "Kurze Antworten auf häufige Fragen zur Art Rivetina archibaldi, ihrem Lebensraum, ihrer Bestimmung und ihrem wissenschaftlichen Datensatz.",
+      "items": [
+        {
+          "question": "Was ist Rivetina archibaldi?",
+          "answer": "Rivetina archibaldi ist eine Gottesanbeterin aus der Familie Rivetinidae, die 2026 offiziell in den Zagros-Eichenwäldern im Westen Irans beschrieben wurde."
+        },
+        {
+          "question": "Wo lebt Rivetina archibaldi?",
+          "answer": "Die veröffentlichte Typlokalität liegt im Zagros-Eichenwaldgürtel im Westen Irans. Die Untersuchungen konzentrieren sich auf die Bodenschicht, niedrige Vegetation, Rinde und Laubstreu."
+        },
+        {
+          "question": "Wie identifiziere ich Rivetina archibaldi?",
+          "answer": "Dokumentieren Sie den Gesamtkörperbau, das Halsschildprofil, die Bestachelung der Vorderbeine, die Flügellänge und die Kopfform. Der veröffentlichte Bestimmungsschlüssel basiert auf Männchen, daher ist eine Expertenprüfung für die Bestätigung auf Artniveau wichtig."
+        },
+        {
+          "question": "Wann wurde Rivetina archibaldi beschrieben?",
+          "answer": "Die Art wurde 2026 im Journal of Orthoptera Research, Band 35, Ausgabe 2, Seiten 283–292 beschrieben."
+        },
+        {
+          "question": "Was isst Rivetina archibaldi?",
+          "answer": "Rivetina archibaldi ist ein am Boden lebendes Raubtier aus dem Hinterhalt. Sein Körperbau unterstützt eine Ernährung mit kleinen bodenaktiven Arthropoden wie Ameisen, Käfern und Spinnen."
+        },
+        {
+          "question": "Ist Rivetina archibaldi ein Spielcharakter?",
+          "answer": "Nein. Rivetina archibaldi ist eine in der wissenschaftlichen Literatur beschriebene Gottesanbeterin, kein Spielcharakter oder virtuelles Haustier."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Entdecken Sie die Wissenschaft hinter Rivetina archibaldi",
+      "description": "Prüfen Sie die Bestimmungsmerkmale der Art, die Taxonomie, den Lebensraum und die Veröffentlichung von 2026 im Journal of Orthoptera Research.",
+      "primary": "Lesen Sie den Artenführer",
+      "secondary": "Originalarbeit öffnen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Artenführer zu Rivetina archibaldi",
+    "overviewDescription": "Beginnen Sie mit der Artenübersicht, dem Arbeitsablauf zur Feldidentifizierung, dem Lebensraum, der wissenschaftlichen Klassifizierung und der Entdeckung von Rivetina archibaldi im Jahr 2026."
+  },
+  "mechanics": {
+    "overviewTitle": "Verhalten und Mechanik von Rivetina archibaldi",
+    "overviewDescription": "Entdecken Sie Hinterhaltjagd, Tarnung, Ernährung, Anpassungen, Fortpflanzung und den jährlichen Lebenszyklus von Rivetina archibaldi."
+  },
+  "characters": {
+    "overviewTitle": "Aussehen und Merkmale von Rivetina archibaldi",
+    "overviewDescription": "Vergleichen Sie Körpergröße, männliche und weibliche Merkmale, körperliche Merkmale und verwandte Arten in der Gattung Rivetina."
+  },
+  "progression": {
+    "overviewTitle": "Wachstumsstadien von Rivetina archibaldi",
+    "overviewDescription": "Verfolgen Sie Rivetina archibaldi von der Eihülle und dem Nymphenstadium über die Häutung bis hin zur Lebensspanne des Erwachsenen."
+  },
+  "tips": {
+    "overviewTitle": "Feldtipps zu Rivetina archibaldi",
+    "overviewDescription": "Planen Sie eine verantwortungsvolle Feldbeobachtung mit Anleitungen zur Identifizierung, Lebensraumnotizen, Fotografiestandards und Forschungspraktiken."
+  },
+  "community": {
+    "overviewTitle": "Forschung und Community zu Rivetina archibaldi",
+    "overviewDescription": "Hier finden Sie die Originalbeschreibung der Art, wissenschaftliche Artikel, Diskussionen zu Vorkommen und fotografische Ressourcen der Community."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Forschungsschnappschuss",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Durchsuchen Sie Forschungsressourcen",
+    "playOnRoblox": "Spielen Sie auf Roblox",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchen Sie Hilfe?",
+    "relatedReading": "Weiterführende Lektüre",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schauen Sie bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "Rivetina archibaldi Wiki",
+    "about": "Rivetina archibaldi Wiki ist eine unabhängige Artenenzyklopädie, die Identifizierung, Taxonomie, Lebensraum, die Originalveröffentlichung von 2026 und verwandte Gottesanbeterinnenarten abdeckt.",
+    "quickLinks": "Schnellzugriff",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 Rivetina archibaldi Wiki. Unabhängige Artenenzyklopädie; nicht mit den ursprünglichen Forschern oder der ursprünglichen Zeitschrift verbunden.",
+    "description": "Eine neu beschriebene bodenbewohnende Gottesanbeterin aus den Zagros-Eichenwäldern im Westen Irans.",
+    "playGame": "Originalarbeit lesen",
+    "officialDiscord": "GBIF-Artendatensatz",
+    "officialYoutube": "Gottesanbeterin-Dokumentation",
+    "vvBuilder": "DOI-Datensatz",
+    "beginnerGuide": "Artleitfaden",
+    "raceGuides": "Erscheinung und Merkmale",
+    "bossGuides": "Verhalten und Ökologie",
+    "buildGuide": "Forschung und Community",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}

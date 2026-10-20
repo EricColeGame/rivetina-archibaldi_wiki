@@ -1,1 +1,515 @@
-{}
+{
+  "site": {
+    "name": "Rivetina archibaldi Wiki",
+    "shortName": "Rivetina archibaldi",
+    "tagline": "Guía de especies, hábitat y clasificación científica",
+    "description": "Explore Rivetina archibaldi, sus características de identificación, su hábitat en el oeste de Irán, su clasificación científica, la publicación de la investigación y las especies de mantis relacionadas.",
+    "legalNotice": "Enciclopedia independiente de especies. No está afiliada a los investigadores ni a la revista originales."
+  },
+  "nav": {
+    "guide": "Guía",
+    "mechanics": "Mecánica",
+    "characters": "Características",
+    "progression": "Desarrollo",
+    "tips": "Consejos",
+    "community": "Comunidad"
+  },
+  "home": {
+    "meta": {
+      "title": "Rivetina archibaldi Wiki — Guía de especies, hábitat y ciencia",
+      "description": "Explore Rivetina archibaldi, una mantis religiosa terrestre de los bosques de robles de Zagros en Irán, con identificación, taxonomía, hábitat, comportamiento e investigación."
+    },
+    "hero": {
+      "eyebrow": "Mantis religiosa terrestre recientemente descrita",
+      "title": "Rivetina archibaldi Wiki",
+      "description": "Explore Rivetina archibaldi, sus características de identificación, su hábitat en el oeste de Irán, su clasificación científica, la publicación de la investigación y las especies de mantis relacionadas.",
+      "stats": [
+        "Publicada en 2026",
+        "10 páginas de investigación",
+        "Volumen 35 de la revista",
+        "Descrita el 12 de junio de 2026"
+      ],
+      "primaryCta": "Identificación de la especie",
+      "secondaryCta": "Hábitat y distribución",
+      "tertiaryCta": "Investigación original",
+      "videoLabel": "Historia natural de Rivetina archibaldi"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Rivetina archibaldi",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Identificación para principiantes",
+          "description": "Conozca el flujo de trabajo de campo para fotografiar, documentar e identificar Rivetina archibaldi."
+        },
+        {
+          "number": "2",
+          "title": "Etapas de crecimiento",
+          "description": "Siga a Rivetina archibaldi desde la ooteca y los estadios ninfales hasta la edad adulta alada."
+        },
+        {
+          "number": "3",
+          "title": "Hábitat y distribución",
+          "description": "Explore los bosques de robles de Zagros en el oeste de Irán y los microhábitats de la capa terrestre utilizados por Rivetina archibaldi."
+        },
+        {
+          "number": "4",
+          "title": "Comportamiento y alimentación",
+          "description": "Vea cómo esta mantis terrestre caza, se esconde, se acicala y utiliza sus patas raptoras."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas destacadas de la especie",
+      "title": "Explora la investigación",
+      "quickLinks": [
+        "Identificación",
+        "Taxonomía",
+        "Hábitat",
+        "Ciclo de vida"
+      ],
+      "cards": [
+        {
+          "badge": "Guía",
+          "title": "Identificación de Rivetina archibaldi",
+          "description": "Un flujo de trabajo paso a paso para fotografías, notas de hábitat y caracteres diagnósticos.",
+          "href": "/guide/rivetina-archibaldi-identification"
+        },
+        {
+          "badge": "Taxonomía",
+          "title": "Clasificación científica",
+          "description": "Orden, familia, género y especie explicados nivel por nivel.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification"
+        },
+        {
+          "badge": "Hábitat",
+          "title": "Hábitat del bosque de robles de Zagros",
+          "description": "Dónde se describió la especie y qué microhábitats importan.",
+          "href": "/guide/rivetina-archibaldi-habitat"
+        },
+        {
+          "badge": "Comportamiento",
+          "title": "Caza y comportamiento",
+          "description": "Tácticas de emboscada, camuflaje, aseo, muda y apareamiento.",
+          "href": "/mechanics/rivetina-archibaldi-behavior"
+        },
+        {
+          "badge": "Mecánica",
+          "title": "Caza terrestre",
+          "description": "Cómo un cuerpo bajo y compacto favorece un estilo de caza sentado y esperando.",
+          "href": "/mechanics/rivetina-archibaldi-hunting-behavior"
+        },
+        {
+          "badge": "Desarrollo",
+          "title": "Etapas de crecimiento",
+          "description": "Desde la ooteca y los estadios ninfales hasta la edad adulta alada.",
+          "href": "/progression/rivetina-archibaldi-growth-stages"
+        },
+        {
+          "badge": "Anatomía",
+          "title": "Características físicas",
+          "description": "Cabeza, pronoto, patas delanteras, alas y camuflaje.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics"
+        },
+        {
+          "badge": "Descubrimiento",
+          "title": "Una especie nueva para la ciencia",
+          "description": "Cómo se describió y nombró Rivetina archibaldi en 2026.",
+          "href": "/guide/rivetina-archibaldi-discovery"
+        },
+        {
+          "badge": "Investigación",
+          "title": "Artículos y comunidad",
+          "description": "Investigación original, datos de presencia y recursos para el trabajo de campo.",
+          "href": "/community/rivetina-archibaldi-research-papers"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Rivetina archibaldi?",
+      "paragraphs": [
+        "Rivetina archibaldi es una mantis religiosa del orden Mantodea y familia Rivetinidae, descrita formalmente como una especie nueva para la ciencia en 2026. Recibió su nombre a partir de material recolectado en los bosques de robles de Zagros en el oeste de Irán.",
+        "La especie es una mantis compacta asociada al suelo, con patas raptoras, una cabeza triangular móvil y una coloración moteada en tonos tierra. Su descripción publicada proporciona la taxonomía, la morfología, la localidad tipo y una clave de identificación basada en machos para las especies iraníes de Rivetina."
+      ],
+      "stats": [
+        {
+          "label": "Orden",
+          "value": "Mantodea"
+        },
+        {
+          "label": "Familia",
+          "value": "Rivetinidae"
+        },
+        {
+          "label": "Género",
+          "value": "Rivetina"
+        },
+        {
+          "label": "Región tipo",
+          "value": "Irán occidental"
+        },
+        {
+          "label": "Hábitat",
+          "value": "Bosques de robles de Zagros"
+        },
+        {
+          "label": "Descrita",
+          "value": "2026"
+        }
+      ],
+      "cta": "Explora la guía de especies"
+    },
+    "explore": {
+      "title": "Explora Rivetina archibaldi",
+      "description": "Ocho módulos temáticos abarcan la identidad de la especie, el flujo de trabajo de identificación, los rasgos físicos, la clasificación científica, el registro de su descubrimiento y los recursos para la investigación de campo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Rivetina archibaldi: descripción general de la especie",
+          "description": "Presenta a Rivetina archibaldi, incluida su identidad como mantis religiosa recién descrita, su familia, la región tipo y la publicación de 2026 que estableció la especie.",
+          "href": "/guide/rivetina-archibaldi-species",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Resumen",
+              "detail": "Una mantis religiosa descrita en 2026 en la familia Rivetinidae."
+            },
+            {
+              "label": "Región",
+              "detail": "Conocida por los bosques de robles de Zagros en el oeste de Irán."
+            },
+            {
+              "label": "Complexión",
+              "detail": "Cazador compacto, asociado al suelo, con patas raptoras."
+            },
+            {
+              "label": "Investigación",
+              "detail": "Descripción original publicada en Journal of Orthoptera Research."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Identificación de Rivetina archibaldi para principiantes",
+          "description": "Una guía de campo para principiantes para identificar Rivetina archibaldi, desde la primera fotografía y las notas de hábitat hasta los caracteres diagnósticos utilizados en la clave publicada.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Comience con una fotografía lateral clara antes de manipular o mover la mantis."
+            },
+            {
+              "label": "2",
+              "detail": "Registre el sustrato exacto, la vegetación baja y el hábitat alrededor del avistamiento."
+            },
+            {
+              "label": "3",
+              "detail": "Registre coordenadas, fecha, hora y elevación para un registro de campo verificable."
+            },
+            {
+              "label": "4",
+              "detail": "Capture vistas dorsal, lateral y frontal de la cabeza y el pronoto."
+            },
+            {
+              "label": "5",
+              "detail": "Fotografíe la espinación de las patas delanteras y la longitud del ala como detalles de diagnóstico."
+            },
+            {
+              "label": "6",
+              "detail": "Compare con la clave iraní Rivetina y busque la confirmación de un experto."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Prioridades de identificación de Rivetina archibaldi",
+          "description": "Clasifique la evidencia diagnóstica de Rivetina archibaldi, desde los caracteres decisivos del espécimen hasta el contexto de campo de apoyo, para documentar las observaciones con el nivel de detalle adecuado.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Genitales masculinos y la clave Rivetina iraní publicada."
+            },
+            {
+              "label": "A",
+              "detail": "Espinación de las patas delanteras, perfil del pronoto y longitud del ala."
+            },
+            {
+              "label": "B",
+              "detail": "Forma de la cabeza, separación entre los ojos y escudo frontal."
+            },
+            {
+              "label": "C",
+              "detail": "Constitución general, coloración y contexto del hábitat."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Consejos de observación de campo para Rivetina archibaldi",
+          "description": "Consejos prácticos para encontrar y documentar Rivetina archibaldi mientras se protege el hábitat del bosque de robles y los insectos que allí viven.",
+          "href": "/tips/rivetina-archibaldi-field-research",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Observar",
+              "detail": "Busque en la capa del suelo, la vegetación baja, la corteza y la hojarasca."
+            },
+            {
+              "label": "Foto",
+              "detail": "Utilice vistas dorsal, lateral y frontal con iluminación uniforme."
+            },
+            {
+              "label": "Registrar",
+              "detail": "Registre fecha, hora, coordenadas, elevación y sustrato."
+            },
+            {
+              "label": "Respetar",
+              "detail": "Fotografíe sin manipular y devuelva las piedras o la corteza exactamente a su sitio."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Rivetina archibaldi: características físicas",
+          "description": "Presenta la cabeza, el pronoto, las patas delanteras, las alas, la coloración y las proporciones corporales que definen a Rivetina archibaldi y la separan de las mantis relacionadas.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Cabeza",
+              "detail": "Cabeza triangular con grandes ojos compuestos y un escudo frontal distintivo."
+            },
+            {
+              "label": "Pronoto",
+              "detail": "Placa cervical alargada con un abultamiento supracoxal definido."
+            },
+            {
+              "label": "Patas delanteras",
+              "detail": "Fémur y tibia raptores con hileras de espinas prensiles."
+            },
+            {
+              "label": "Alas",
+              "detail": "Los machos suelen tener alas más largas; las hembras suelen tener alas más cortas."
+            },
+            {
+              "label": "Coloración",
+              "detail": "Los tonos moteados de gris, tostado y marrón se mezclan con la corteza, la tierra y la hierba seca."
+            },
+            {
+              "label": "Complexión",
+              "detail": "Las proporciones compactas y robustas son propias de un cazador de emboscada que vive en el suelo."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Clasificación científica de Rivetina archibaldi",
+          "description": "Explique la clasificación científica completa de Rivetina archibaldi desde el dominio hasta la especie, con los rangos que la ubican entre las mantis terrestres.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Dominio",
+              "detail": "Eukaryota: células con núcleo."
+            },
+            {
+              "label": "Reino",
+              "detail": "Animalia: el reino animal."
+            },
+            {
+              "label": "Filo",
+              "detail": "Arthropoda: exoesqueleto articulado y cuerpo segmentado."
+            },
+            {
+              "label": "Clase",
+              "detail": "Insecta: seis patas, tres regiones del cuerpo y un par de antenas."
+            },
+            {
+              "label": "Orden",
+              "detail": "Mantodea — las mantis religiosas."
+            },
+            {
+              "label": "Familia",
+              "detail": "Rivetinidae: en su mayoría mantis asociadas al suelo."
+            },
+            {
+              "label": "Género",
+              "detail": "Rivetina: el género compartido con parientes cercanos."
+            },
+            {
+              "label": "Especie",
+              "detail": "Rivetina archibaldi: el nombre binomial único de esta mantis."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Descubrimiento y publicación de Rivetina archibaldi",
+          "description": "Resuma el descubrimiento, la descripción formal, la localidad tipo, la publicación en la revista y el registro de investigación de acceso abierto de Rivetina archibaldi.",
+          "href": "/guide/rivetina-archibaldi-discovery",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Descubrimiento",
+              "detail": "La especie fue nombrada formalmente nueva para la ciencia en 2026."
+            },
+            {
+              "label": "Área tipo",
+              "detail": "La localidad tipo se encuentra en los bosques de robles de Zagros, en el oeste de Irán."
+            },
+            {
+              "label": "Revista",
+              "detail": "La descripción apareció en Journal of Orthoptera Research."
+            },
+            {
+              "label": "Volumen",
+              "detail": "Publicado en el volumen 35, número 2, páginas 283–292."
+            },
+            {
+              "label": "DOI",
+              "detail": "10.3897/jor.35.174839"
+            },
+            {
+              "label": "Artículo",
+              "detail": "La descripción de acceso abierto incluye la clave de identificación de machos."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Investigación y comunidad de Rivetina archibaldi",
+          "description": "Reúna artículos verificados, datos de presencia, fotografías y recursos para la investigación de campo de cualquiera que estudie Rivetina archibaldi.",
+          "href": "/community/rivetina-archibaldi-research-papers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Artículos",
+              "detail": "Revise la descripción original de la especie y las referencias taxonómicas."
+            },
+            {
+              "label": "GBIF",
+              "detail": "Consulte los registros de presencia y los datos taxonómicos de referencia."
+            },
+            {
+              "label": "Fotos",
+              "detail": "Compare imágenes verificadas por expertos antes de proponer una identificación de especie."
+            },
+            {
+              "label": "Trabajo de campo",
+              "detail": "Documente las observaciones sin recolectar ni alterar el hábitat."
+            },
+            {
+              "label": "Comunidad",
+              "detail": "Comparta avistamientos a través de comunidades de naturalistas y entomólogos."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Rivetina archibaldi",
+      "description": "Respuestas rápidas a preguntas comunes sobre la especie Rivetina archibaldi, su hábitat, identificación y registro científico.",
+      "items": [
+        {
+          "question": "¿Qué es Rivetina archibaldi?",
+          "answer": "Rivetina archibaldi es una mantis religiosa de la familia Rivetinidae, descrita formalmente en 2026 en los bosques de robles de Zagros en el oeste de Irán."
+        },
+        {
+          "question": "¿Dónde vive Rivetina archibaldi?",
+          "answer": "La localidad tipo publicada se encuentra en el cinturón de bosques de robles de Zagros en el oeste de Irán. Los estudios se centran en la capa del suelo, la vegetación baja, la corteza y la hojarasca."
+        },
+        {
+          "question": "¿Cómo identifico Rivetina archibaldi?",
+          "answer": "Documente la constitución general, el perfil del pronoto, la espinación de las patas delanteras, la longitud del ala y la forma de la cabeza. La clave de identificación publicada se basa en los machos, por lo que la revisión de expertos es importante para la confirmación a nivel de especie."
+        },
+        {
+          "question": "¿Cuándo se describió Rivetina archibaldi?",
+          "answer": "La especie fue descrita en 2026 en Journal of Orthoptera Research, volumen 35, número 2, páginas 283–292."
+        },
+        {
+          "question": "¿Qué come Rivetina archibaldi?",
+          "answer": "Rivetina archibaldi es un depredador de emboscada que habita en el suelo. Su plan corporal respalda una dieta de pequeños artrópodos activos en el suelo, como hormigas, escarabajos y arañas."
+        },
+        {
+          "question": "¿Rivetina archibaldi es un personaje del juego?",
+          "answer": "No. Rivetina archibaldi es una especie de mantis religiosa descrita en la literatura científica, no un personaje de juego ni una mascota virtual."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Explore la ciencia detrás de Rivetina archibaldi",
+      "description": "Revise las características de identificación de la especie, la taxonomía, el hábitat y la publicación de 2026 en Journal of Orthoptera Research.",
+      "primary": "Lea la guía de especies",
+      "secondary": "Abrir el artículo original"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de especies de Rivetina archibaldi",
+    "overviewDescription": "Comience con la descripción general de las especies, el flujo de trabajo de identificación de campo, el hábitat, la clasificación científica y el descubrimiento de Rivetina archibaldi en 2026."
+  },
+  "mechanics": {
+    "overviewTitle": "Comportamiento y mecánica de Rivetina archibaldi",
+    "overviewDescription": "Explore la caza de emboscada, el camuflaje, la alimentación, las adaptaciones, la reproducción y el ciclo de vida anual de Rivetina archibaldi."
+  },
+  "characters": {
+    "overviewTitle": "Aspecto y rasgos de Rivetina archibaldi",
+    "overviewDescription": "Compare el tamaño corporal, los rasgos masculinos y femeninos, las características físicas y las especies relacionadas en el género Rivetina."
+  },
+  "progression": {
+    "overviewTitle": "Etapas de crecimiento de Rivetina archibaldi",
+    "overviewDescription": "Siga a Rivetina archibaldi desde la caja del huevo y los estadios ninfales hasta la muda y la vida adulta."
+  },
+  "tips": {
+    "overviewTitle": "Consejos de campo para Rivetina archibaldi",
+    "overviewDescription": "Planifique una observación de campo responsable con orientación de identificación, notas de hábitat, estándares de fotografía y prácticas de investigación."
+  },
+  "community": {
+    "overviewTitle": "Investigación y comunidad de Rivetina archibaldi",
+    "overviewDescription": "Encuentre la descripción original de la especie, artículos científicos, debates sobre registros de presencia y recursos fotográficos de la comunidad."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Panorama de la investigación",
+    "updated": "Actualizado",
+    "viewAllCodes": "Explorar recursos de investigación",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Rivetina archibaldi Wiki",
+    "about": "Rivetina archibaldi Wiki es una enciclopedia independiente de especies que cubre identificación, taxonomía, hábitat, la publicación original de 2026 y especies de mantis relacionadas.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Rivetina archibaldi Wiki. Enciclopedia independiente de especies; no está afiliada a los investigadores ni a la revista originales.",
+    "description": "Una mantis religiosa terrestre recientemente descrita en los bosques de robles de Zagros, en el oeste de Irán.",
+    "playGame": "Leer el artículo original",
+    "officialDiscord": "Registro de especies de GBIF",
+    "officialYoutube": "Documental sobre mantis",
+    "vvBuilder": "Registro DOI",
+    "beginnerGuide": "Guía de la especie",
+    "raceGuides": "Aspecto y rasgos",
+    "bossGuides": "Comportamiento y ecología",
+    "buildGuide": "Investigación y comunidad",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

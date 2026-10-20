@@ -9,7 +9,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://rivetina-archibaldi.wiki";
 
   // Static paths that always exist
-  const staticPaths = ["/", ...CONTENT_TYPES.map((contentType) => `/${contentType}`), "/updates", "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
+  const staticPaths = ["/", ...CONTENT_TYPES.map((contentType) => `/${contentType}`), "/privacy-policy", "/terms-of-service", "/copyright", "/about"];
 
   // Dynamic paths: scan actual MDX content files
   const contentPaths = await getAllContentPaths("en");

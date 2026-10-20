@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Rivetina archibaldi Wiki — Species, Habitat & Scientific Guide",
+      "description": "Explore Rivetina archibaldi, a ground-dwelling praying mantis from Iran's Zagros oak forests, with identification, taxonomy, habitat, behavior, and research."
     },
     "hero": {
       "eyebrow": "Newly Described Ground-Dwelling Praying Mantis",
@@ -25,7 +25,7 @@
       "primaryCta": "Species Identification",
       "secondaryCta": "Habitat & Distribution",
       "tertiaryCta": "Original Research",
-      "videoLabel": "Mantis natural history"
+      "videoLabel": "Rivetina archibaldi natural history"
     },
     "updates": {
       "title": "Latest Updates",
@@ -34,293 +34,407 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Rivetina archibaldi Journey",
       "cards": [
         {
           "number": "1",
-          "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "title": "Beginner Identification",
+          "description": "Learn the field workflow for photographing, documenting, and identifying Rivetina archibaldi."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Growth Stages",
+          "description": "Follow Rivetina archibaldi from ootheca and nymphal instars to winged adulthood."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Habitat and Distribution",
+          "description": "Explore the Zagros oak forests of western Iran and the ground-layer microhabitats used by Rivetina archibaldi."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Behavior and Feeding",
+          "description": "See how this ground-dwelling mantis hunts, hides, grooms, and uses its raptorial forelegs."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "eyebrow": "Featured Species Pages",
+      "title": "Explore the Research",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Identification",
+        "Taxonomy",
+        "Habitat",
+        "Life Cycle"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Guide",
+          "title": "Rivetina archibaldi Identification",
+          "description": "A step-by-step workflow for photographs, habitat notes, and diagnostic characters.",
+          "href": "/guide/rivetina-archibaldi-identification"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Taxonomy",
+          "title": "Scientific Classification",
+          "description": "Order, family, genus, and species explained rank by rank.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Habitat",
+          "title": "Zagros Oak Forest Habitat",
+          "description": "Where the species was described and which microhabitats matter.",
+          "href": "/guide/rivetina-archibaldi-habitat"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Behavior",
+          "title": "Hunting and Behavior",
+          "description": "Ambush tactics, camouflage, grooming, molting, and mating.",
+          "href": "/mechanics/rivetina-archibaldi-behavior"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Mechanics",
+          "title": "Ground-Dwelling Hunting",
+          "description": "How a low, compact body supports a sit-and-wait hunting style.",
+          "href": "/mechanics/rivetina-archibaldi-hunting-behavior"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Progression",
+          "title": "Growth Stages",
+          "description": "From ootheca and nymphal instars to winged adulthood.",
+          "href": "/progression/rivetina-archibaldi-growth-stages"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Anatomy",
+          "title": "Physical Characteristics",
+          "description": "Head, pronotum, forelegs, wings, and camouflage.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Discovery",
+          "title": "A Species New to Science",
+          "description": "How Rivetina archibaldi was described and named in 2026.",
+          "href": "/guide/rivetina-archibaldi-discovery"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Research",
+          "title": "Papers and Community",
+          "description": "Original research, occurrence data, and field-research resources.",
+          "href": "/community/rivetina-archibaldi-research-papers"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Rivetina archibaldi?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Rivetina archibaldi is a praying mantis in the order Mantodea and family Rivetinidae, formally described as a species new to science in 2026. It was named from material collected in the Zagros oak forests of western Iran.",
+        "The species is a compact, ground-associated mantis with raptorial forelegs, a mobile triangular head, and mottled earth-tone coloration. Its published description provides the taxonomy, morphology, type locality, and a male-based identification key for Iranian Rivetina species."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Order",
+          "value": "Mantodea"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Family",
+          "value": "Rivetinidae"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Genus",
+          "value": "Rivetina"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Type Region",
+          "value": "Western Iran"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Habitat",
+          "value": "Zagros oak forests"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Described",
+          "value": "2026"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore the Species Guide"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Rivetina archibaldi",
+      "description": "Eight focused modules cover the species identity, identification workflow, physical traits, scientific classification, discovery record, and field-research resources.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Rivetina archibaldi Species Overview",
+          "description": "Introduce Rivetina archibaldi, including its identity as a newly described praying mantis, family placement, type region, and the 2026 publication that established the species.",
+          "href": "/guide/rivetina-archibaldi-species",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Overview",
+              "detail": "A 2026-described praying mantis in the family Rivetinidae."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Region",
+              "detail": "Known from the Zagros oak forests of western Iran."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Build",
+              "detail": "Compact, ground-associated hunter with raptorial forelegs."
+            },
+            {
+              "label": "Research",
+              "detail": "Original description published in Journal of Orthoptera Research."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Rivetina archibaldi Beginner Identification",
+          "description": "A beginner-friendly field guide to identifying Rivetina archibaldi, from the first photograph and habitat notes to the diagnostic characters used in the published key.",
+          "href": "/guide/rivetina-archibaldi-identification",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Begin with a clear lateral photograph before handling or moving the mantis."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Record the exact substrate, low vegetation, and habitat around the sighting."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Log coordinates, date, time, and elevation for a verifiable field record."
+            },
+            {
+              "label": "4",
+              "detail": "Capture dorsal, lateral, and frontal views of the head and pronotum."
+            },
+            {
+              "label": "5",
+              "detail": "Photograph foreleg spination and wing length as diagnostic details."
+            },
+            {
+              "label": "6",
+              "detail": "Compare with the Iranian Rivetina key and seek expert confirmation."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "Rivetina archibaldi Identification Priorities",
+          "description": "Rank the diagnostic evidence for Rivetina archibaldi from decisive specimen characters to supporting field context, so observations are documented at the right level of detail.",
+          "href": "/guide/rivetina-archibaldi-identification",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Male genitalia and the published Iranian Rivetina key."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Foreleg spination, pronotum profile, and wing length."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Head shape, eye spacing, and frontal shield."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Overall build, coloration, and habitat context."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Rivetina archibaldi Field Observation Tips",
+          "description": "Practical tips for finding and documenting Rivetina archibaldi while protecting the oak-forest habitat and the insects that live there.",
+          "href": "/tips/rivetina-archibaldi-field-research",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Observe",
+              "detail": "Search the ground layer, low vegetation, bark, and leaf litter."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Photo",
+              "detail": "Use dorsal, lateral, and frontal views with even lighting."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Record",
+              "detail": "Log date, time, coordinates, elevation, and substrate."
+            },
+            {
+              "label": "Respect",
+              "detail": "Photograph without handling and replace stones or bark exactly."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Rivetina archibaldi Physical Characteristics",
+          "description": "Present the head, pronotum, forelegs, wings, coloration, and body proportions that define Rivetina archibaldi and separate it from related mantises.",
+          "href": "/characters/rivetina-archibaldi-physical-characteristics",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Head",
+              "detail": "Triangular head with large compound eyes and a distinct frontal shield."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Pronotum",
+              "detail": "Elongated neck plate with a defined supracoxal swelling."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Forelegs",
+              "detail": "Raptorial femur and tibia with rows of gripping spines."
+            },
+            {
+              "label": "Wings",
+              "detail": "Males typically have longer wings; females are often shorter-winged."
+            },
+            {
+              "label": "Coloration",
+              "detail": "Mottled gray, tan, and brown tones blend with bark, soil, and dry grass."
+            },
+            {
+              "label": "Build",
+              "detail": "Compact and robust proportions suit a ground-dwelling ambush hunter."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Rivetina archibaldi Scientific Classification",
+          "description": "Explain the full scientific classification of Rivetina archibaldi from domain to species, with the ranks that place it among ground-dwelling mantises.",
+          "href": "/guide/rivetina-archibaldi-scientific-classification",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Domain",
+              "detail": "Eukaryota — cells with a nucleus."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Kingdom",
+              "detail": "Animalia — the animal kingdom."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Phylum",
+              "detail": "Arthropoda — jointed exoskeleton and segmented body."
+            },
+            {
+              "label": "Class",
+              "detail": "Insecta — six legs, three body regions, and one pair of antennae."
+            },
+            {
+              "label": "Order",
+              "detail": "Mantodea — the praying mantises."
+            },
+            {
+              "label": "Family",
+              "detail": "Rivetinidae — mostly ground-associated mantises."
+            },
+            {
+              "label": "Genus",
+              "detail": "Rivetina — the genus group shared with close relatives."
+            },
+            {
+              "label": "Species",
+              "detail": "Rivetina archibaldi — the unique binomial name for this mantis."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Rivetina archibaldi Discovery and Publication",
+          "description": "Summarize the discovery, formal description, type locality, journal publication, and open-access research record for Rivetina archibaldi.",
+          "href": "/guide/rivetina-archibaldi-discovery",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discovery",
+              "detail": "The species was formally named as new to science in 2026."
+            },
+            {
+              "label": "Type Area",
+              "detail": "The type locality is in the Zagros oak forests of western Iran."
+            },
+            {
+              "label": "Journal",
+              "detail": "The description appeared in Journal of Orthoptera Research."
+            },
+            {
+              "label": "Volume",
+              "detail": "Published in volume 35, issue 2, pages 283–292."
+            },
+            {
+              "label": "DOI",
+              "detail": "10.3897/jor.35.174839"
+            },
+            {
+              "label": "Paper",
+              "detail": "The open-access description includes the male identification key."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Rivetina archibaldi Research and Community",
+          "description": "Collect verified papers, occurrence data, photographs, and field-research resources for anyone studying Rivetina archibaldi.",
+          "href": "/community/rivetina-archibaldi-research-papers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Papers",
+              "detail": "Review the original species description and taxonomic references."
+            },
+            {
+              "label": "GBIF",
+              "detail": "Check occurrence records and taxonomic backbone data."
+            },
+            {
+              "label": "Photos",
+              "detail": "Compare expert-verified images before proposing a species identification."
+            },
+            {
+              "label": "Fieldwork",
+              "detail": "Document observations without collecting or disturbing habitat."
+            },
+            {
+              "label": "Community",
+              "detail": "Share sightings through naturalist and entomology communities."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Rivetina archibaldi FAQ",
+      "description": "Quick answers to common questions about the Rivetina archibaldi species, its habitat, identification, and scientific record.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Rivetina archibaldi?",
+          "answer": "Rivetina archibaldi is a praying mantis in the family Rivetinidae, formally described in 2026 from the Zagros oak forests of western Iran."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Where does Rivetina archibaldi live?",
+          "answer": "The published type locality is in the Zagros oak forest belt of western Iran. Surveys focus on the ground layer, low vegetation, bark, and leaf litter."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I identify Rivetina archibaldi?",
+          "answer": "Document the overall build, pronotum profile, foreleg spination, wing length, and head shape. The published identification key is male-based, so expert review is important for species-level confirmation."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "When was Rivetina archibaldi described?",
+          "answer": "The species was described in 2026 in the Journal of Orthoptera Research, volume 35, issue 2, pages 283–292."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What does Rivetina archibaldi eat?",
+          "answer": "Rivetina archibaldi is a ground-dwelling ambush predator. Its body plan supports a diet of small ground-active arthropods such as ants, beetles, and spiders."
+        },
+        {
+          "question": "Is Rivetina archibaldi a game character?",
+          "answer": "No. Rivetina archibaldi is a species of praying mantis described in the scientific literature, not a game character or virtual pet."
         }
       ]
     },

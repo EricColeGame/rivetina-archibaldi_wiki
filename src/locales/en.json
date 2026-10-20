@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "Rivetina archibaldi Wiki",
+    "shortName": "Rivetina archibaldi",
+    "tagline": "Species Guide, Habitat & Scientific Classification",
+    "description": "Explore Rivetina archibaldi, its identification features, habitat in western Iran, scientific classification, research publication, and related mantis species.",
+    "legalNotice": "Independent species encyclopedia. Not affiliated with the original researchers or journal."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Newly Described Ground-Dwelling Praying Mantis",
+      "title": "Rivetina archibaldi Wiki",
+      "description": "Explore Rivetina archibaldi, its identification features, habitat in western Iran, scientific classification, research publication, and related mantis species.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Published 2026",
+        "10 Research Pages",
+        "Journal Volume 35",
+        "Described June 12, 2026"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Species Identification",
+      "secondaryCta": "Habitat & Distribution",
+      "tertiaryCta": "Original Research",
+      "videoLabel": "Mantis natural history"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Explore the Science Behind Rivetina archibaldi",
+      "description": "Review the species' identification features, taxonomy, habitat, and the 2026 Journal of Orthoptera Research publication.",
+      "primary": "Read the Species Guide",
+      "secondary": "Open the Original Paper"
     }
   },
   "bosses": {
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Rivetina archibaldi Wiki",
+    "about": "Rivetina archibaldi Wiki is an independent species encyclopedia covering identification, taxonomy, habitat, the 2026 original publication, and related mantis species.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "copyright": "2026 Rivetina archibaldi Wiki. Independent species encyclopedia; not affiliated with the original researchers or journal.",
+    "description": "A newly described ground-dwelling praying mantis from the Zagros oak forests of western Iran.",
+    "playGame": "Read the Original Paper",
+    "officialDiscord": "GBIF Species Record",
+    "officialYoutube": "Mantis Documentary",
+    "vvBuilder": "DOI Record",
+    "beginnerGuide": "Species Guide",
+    "raceGuides": "Related Species",
+    "bossGuides": "Habitat & Distribution",
+    "buildGuide": "Research Notes",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

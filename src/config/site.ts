@@ -25,10 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Species Guide, Habitat & Scientific Classification",
   description: "Explore Rivetina archibaldi, a newly described praying mantis from the Zagros oak forests of western Iran, with identification, habitat, taxonomy, and research details.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://rivetina-archibaldi.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://rivetina-archibaldi.wiki").hostname.replace(/^www\./, "")}`,
-  heroVideoId: "NMB95EhD9lc", // Praying mantis natural-history showcase
+  supportEmail: "support@rivetina-archibaldi.wiki",
+  gameUrl: "https://doi.org/10.3897/jor.35.174839",
+  heroVideoId: "YBt6s7CHFQA",
   social: {
-    youtube: "https://www.youtube.com/watch?v=NMB95EhD9lc",
+    discord: "https://www.gbif.org/taxon/VNYLW",
+    youtube: "https://www.youtube.com/watch?v=YBt6s7CHFQA",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

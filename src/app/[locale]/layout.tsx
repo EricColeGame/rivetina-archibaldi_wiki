@@ -26,6 +26,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     metadataBase: new URL(siteUrl),
     title: { default: "Rivetina archibaldi Wiki", template: "%s" },
     description: siteConfig.description,
+    applicationName: siteConfig.name,
     manifest: "/manifest.json",
     icons: {
       icon: [
@@ -35,8 +36,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: "/apple-touch-icon.png",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: {
+      type: "website",
+      locale,
+      url: siteUrl,
+      siteName: siteConfig.name,
+      title: siteConfig.name,
+      description: siteConfig.description,
+      images: [{ url: image, width: 1600, height: 900, alt: "Rivetina archibaldi praying mantis" }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: siteConfig.name,
+      description: siteConfig.description,
+      images: [image],
+    },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -50,9 +64,21 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@context": "https://schema.org",
     "@type": "Organization",
     name: siteConfig.name,
+    alternateName: siteConfig.shortName,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
+    logo: {
+      "@type": "ImageObject",
+      url: `${siteUrl}/android-chrome-512x512.png`,
+      width: 512,
+      height: 512,
+    },
     image: `${siteUrl}/images/hero.webp`,
+    description: siteConfig.description,
+    sameAs: [
+      "https://doi.org/10.3897/jor.35.174839",
+      "https://jor.pensoft.net/article/174839/",
+      "https://www.gbif.org/taxon/VNYLW",
+    ],
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

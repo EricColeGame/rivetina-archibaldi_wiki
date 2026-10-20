@@ -3,8 +3,9 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Rivetina archibaldi Wiki is an independent species encyclopedia covering identification features, scientific classification, habitat, the original research publication, and related praying mantis species.</p>
+      <p>Rivetina archibaldi was described in 2026 from the Zagros oak forests of western Iran. The original paper appears in Journal of Orthoptera Research, volume 35, issue 2, pages 283-292, and was published on June 12, 2026.</p>
+      <p>This site is not affiliated with the species' authors, research institutions, or journal. Primary sources and biodiversity records are linked throughout the encyclopedia for verification.</p>
     </LegalPage>
   );
 }
